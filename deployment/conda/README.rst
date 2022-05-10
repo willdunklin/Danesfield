@@ -68,3 +68,4 @@ Invoke pytest and flake8 at the root level of the repository
 
    pytest (should pass all tests under tests sub directory)
    flake8 . (should pass all style checks)
+   ./gen_cov.sh (generates pytest coverage report)
