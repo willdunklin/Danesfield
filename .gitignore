@@ -11,3 +11,9 @@ __pycache__/
 # Temp. work dirs
 danesfield-*
 *.swp
+
+# Coverage log file
+.coverage
+
+# Editor config
+.vscode

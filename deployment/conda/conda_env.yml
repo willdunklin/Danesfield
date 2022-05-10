@@ -39,6 +39,7 @@ dependencies:
 - geojson
 - flake8
 - pytest
+- coverage
 - cuda100
 - cudatoolkit=10.0
 - pytorch=1.0.0
