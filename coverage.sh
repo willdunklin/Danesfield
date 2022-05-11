@@ -13,4 +13,4 @@ find ./danesfield -type d \
 
 coverage html # generate htmlcov report
 echo "*" > ./htmlcov/.gitignore # ignore htmlcov directory in git
-coverage report
+coverage report # terminal coverage report
