@@ -58,6 +58,3 @@ Test:
     --input_dtm=/dvmm-filer2/projects/Core3D/D1_WPAFB/DTMs/D1_DTM.tif \
     --output_mesh=../out_geon/D1_Curve_Mesh.ply'
 
-
-Also see run_fitting_curve_plane.py and run_geon_to_mesh.py
-
